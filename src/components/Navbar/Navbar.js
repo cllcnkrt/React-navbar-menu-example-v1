@@ -30,8 +30,9 @@ function Navbar() {
               </li>
             );
           })}
+          
         </ul>
-            <Button>Sign Up</Button>
+        <Button>Sign Up</Button>
       </nav>
     </>
   );
