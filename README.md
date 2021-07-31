@@ -1,2 +1,3 @@
-## [Demo Linl](https://cllcnkrt.github.io/react-navbar-menu-example-v1/)
+### Navbar menu example
+## [Demo Link](https://cllcnkrt.github.io/react-navbar-menu-example-v1/)
 
